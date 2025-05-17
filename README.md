@@ -30,6 +30,8 @@ It's like an online virtual machine,it allows you to interact with an AI agent t
 👉 [Watch my demo video](https://youtu.be/NSEL5TXv-Yw)
 
 ### Function
+An open-source framework that lets you spin up autonomous AI agents—able to plan, use tools, and execute multi-step tasks—without the closed, wait-listed restrictions of Manus AI.It installs locally (or in Docker), exposes a simple REST/CLI interface, and can pair with any OpenAI-compatible LLM back-end such as GPT-4o or DeepSeek to automate workflows for scraping, coding, or data analysis.
+
 ### Some trial 
 - Its speed is amazing.I think it ranks first in these 15 models.
 - I use cmd to input the prompt,and I'll try use playwright afterwards.
