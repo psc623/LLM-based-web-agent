@@ -44,9 +44,16 @@ A free, open-source Chrome extension that runs local, multi-agent LLMs in your b
 ### Some Trail
 - It has an extension,which is really convenient.
 
-##  AnythingLLM
+##  OWL
 ### Demo
+👉 [Watch my demo video](https://youtu.be/1ZSDPS3DkYg)
 ### Function
-AnythingLLM is a full-stack application where you can use commercial off-the-shelf LLMs or popular open source LLMs and vectorDB solutions to build a private ChatGPT with no compromises that you can run locally as well as host remotely and be able to chat intelligently with any documents you provide it.
+An AI framework that automates complex task execution through dynamic tool orchestration and multi-model collaboration (e.g., DeepSeek/OpenAI), enabling context-aware problem-solving with browser automation, document analysis, and code generation capabilities.
 ### Some Trail
-- It has an application,which is really convenient.
+- It support various kinds of API which is parallel to web-ui.
+
+##  OWL
+### Demo
+👉 [Watch my demo video](https://youtu.be/1ZSDPS3DkYg)
+### Function
+### Some Trail
