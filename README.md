@@ -60,6 +60,13 @@ WebVoyager enables intelligent web automation and API orchestration for cross-pl
 ### Some Trail
 - I used deepseek-chat and deepseek-reasoner as LLM model,but it can only open the driver engine without reacting followed actions.That maybe because WebVoyager has its best utility in gpt,while deepseek-chat,as a text-only model,is too hard to deal with complicate websites.
 
+##  AutoGen
+### Demo
+👉 [Watch my demo video](https://youtu.be/yre4TDkYpLA)
+### Function
+- Multi-Agent Collaboration: Automates tasks through AI agent teamwork.
+- Tool Integration: Streamlines workflows with code execution and LLM reasoning.
+
 ##  OWL
 ### Demo
 👉 [Watch my demo video](https://youtu.be/1ZSDPS3DkYg)
