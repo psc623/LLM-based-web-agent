@@ -42,7 +42,11 @@ An open-source framework that lets you spin up autonomous AI agents—able to pl
 ### Function
 A free, open-source Chrome extension that runs local, multi-agent LLMs in your browser to automate complex web tasks—positioned as a privacy-friendly alternative to OpenAI Operator.
 ### Some Trail
-- It is an extension,which is really convenient.
+- It has an extension,which is really convenient.
 
-
-![image](https://github.com/user-attachments/assets/b0e081bf-66f3-45cd-ad08-3bc9c77123d8)
+##  AnythingLLM
+### Demo
+### Function
+AnythingLLM is a full-stack application where you can use commercial off-the-shelf LLMs or popular open source LLMs and vectorDB solutions to build a private ChatGPT with no compromises that you can run locally as well as host remotely and be able to chat intelligently with any documents you provide it.
+### Some Trail
+- It has an application,which is really convenient.
