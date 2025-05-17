@@ -16,7 +16,7 @@ An AI agent that automates web-based tasks by interacting with websites through 
 
 ## Hugging Face Open Computer Agent
 ### Demo
-![Clipchamp1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f3a05c62-48e9-4434-ba8e-0f71e27741e8)
+<video src="https://youtu.be/KW3Evgwh1WY" controls muted width="480"></video>
 
 ### Function
 It's like an online virtual machine,it allows you to interact with an AI agent that can perform tasks on the web like searching the web, using apps, and more.
