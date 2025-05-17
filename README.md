@@ -52,6 +52,14 @@ An AI framework that automates complex task execution through dynamic tool orche
 ### Some Trail
 - It support various kinds of API which is parallel to web-ui.
 
+##  WebVoyager
+### Demo
+👉 [Watch my demo video](https://youtu.be/2gadLVJqoPI)
+### Function
+WebVoyager enables intelligent web automation and API orchestration for cross-platform data integration.It streamlines complex workflows by bridging AI models with enterprise systems through secure API pipelines.
+### Some Trail
+- I used deepseek-chat and deepseek-reasoner as LLM model,but it can only open the driver engine without reacting followed actions.That maybe because WebVoyager has its best utility in gpt,while deepseek-chat,as a text-only model,is too hard to deal with complicate websites.
+
 ##  OWL
 ### Demo
 👉 [Watch my demo video](https://youtu.be/1ZSDPS3DkYg)
