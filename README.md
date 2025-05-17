@@ -35,3 +35,11 @@ An open-source framework that lets you spin up autonomous AI agents—able to pl
 ### Some trial 
 - Its speed is amazing.I think it ranks first in these 15 models.
 - I use cmd to input the prompt,and I'll try use playwright afterwards.
+
+## Nanobrowser
+### Demo
+👉 [Watch my demo video](https://youtu.be/fy-x21J6IBE)
+### Function
+A free, open-source Chrome extension that runs local, multi-agent LLMs in your browser to automate complex web tasks—positioned as a privacy-friendly alternative to OpenAI Operator.
+### Some Trail
+- It is an extension,which is really convenient.
