@@ -7,9 +7,18 @@
 ### Function
 A self-hosted, open-source AI platform designed to run language models offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, providing an extensible and feature-rich interface. Users can interact with language models through a user-friendly interface, and the platform is designed to operate entirely offline, ensuring privacy and control.
 ### Some trial 
-- Although I select deepseek as LLM,cmd bash keep tapping:OPENAI-API-KEY failed.Then I searched a tutorial on Youtube and the blogger told me to close"Use-Vision"button on web-ui because it will use chatgpt4 as defalt LLM.
+- Although I select deepseek as LLM,cmd bash keep tapping:OPENAI-API-KEY failed.Then I searched a tutorial on Youtube and the blogger told me to close "Use-Vision" button on web-ui because it will use chatgpt4 as defalt LLM.
 - Firstly I used edge to open web-ui,but it will include some chrome tasks automatically,so I always fail to connect to Chrome.Then I switch to Firefox,then it works. 
 
 ## Open Operator
 ### Function
 An AI agent that automates web-based tasks by interacting with websites through a browser interface. It can perform actions such as filling out forms, placing online orders, scheduling appointments, and other repetitive browser tasks. Operator operates autonomously, mimicking human actions like clicking, typing, and scrolling. It is available to ChatGPT Pro subscribers in the U.S. at a monthly fee of $200.
+
+##Hugging Face Open Computer Agent
+### Demo
+
+### Function
+It's like an online virtual machine,it allows you to interact with an AI agent that can perform tasks on the web like searching the web, using apps, and more.
+### Some Trial
+- The speed is relatively slow compared to web-ui.
+- When I use its default browser chrome,it can't pass human-machine detection(demo:https://youtu.be/I0nhggQ6ofk?si=Q2tJerGxH61vQ2nF).And then I input:Use Bing as browser and search "Newton",then I got the demo above.
