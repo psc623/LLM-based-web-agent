@@ -14,11 +14,12 @@ A self-hosted, open-source AI platform designed to run language models offline. 
 ### Function
 An AI agent that automates web-based tasks by interacting with websites through a browser interface. It can perform actions such as filling out forms, placing online orders, scheduling appointments, and other repetitive browser tasks. Operator operates autonomously, mimicking human actions like clicking, typing, and scrolling. It is available to ChatGPT Pro subscribers in the U.S. at a monthly fee of $200.
 
-##Hugging Face Open Computer Agent
+## Hugging Face Open Computer Agent
 ### Demo
+![Clipchamp1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f3a05c62-48e9-4434-ba8e-0f71e27741e8)
 
 ### Function
 It's like an online virtual machine,it allows you to interact with an AI agent that can perform tasks on the web like searching the web, using apps, and more.
 ### Some Trial
-- The speed is relatively slow compared to web-ui.
+- The speed is relatively slow compared to web-ui(the demo is 4 times quicker).
 - When I use its default browser chrome,it can't pass human-machine detection(demo:https://youtu.be/I0nhggQ6ofk?si=Q2tJerGxH61vQ2nF).And then I input:Use Bing as browser and search "Newton",then I got the demo above.
