@@ -67,8 +67,4 @@ WebVoyager enables intelligent web automation and API orchestration for cross-pl
 - Multi-Agent Collaboration: Automates tasks through AI agent teamwork.
 - Tool Integration: Streamlines workflows with code execution and LLM reasoning.
 
-##  OWL
-### Demo
-👉 [Watch my demo video](https://youtu.be/1ZSDPS3DkYg)
-### Function
-### Some Trail
+
